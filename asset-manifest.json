@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/francis_blog/static/css/main.b2bca657.css",
+    "main.js": "/francis_blog/static/js/main.aef65ea8.js",
+    "index.html": "/francis_blog/index.html",
+    "main.b2bca657.css.map": "/francis_blog/static/css/main.b2bca657.css.map",
+    "main.aef65ea8.js.map": "/francis_blog/static/js/main.aef65ea8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2bca657.css",
+    "static/js/main.aef65ea8.js"
+  ]
+}
